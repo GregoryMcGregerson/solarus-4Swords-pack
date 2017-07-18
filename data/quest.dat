@@ -1,0 +1,16 @@
+quest{
+  solarus_version = "1.5",
+  write_dir = "ed9c8c04-47ec-47eb-8541-96cbc1f24333",
+  title = "Untitled quest",
+  short_description = "",
+  long_description = [[
+]],
+  author = "",
+  quest_version = "",
+  release_date = "",
+  website = "",
+  normal_quest_size = "256x224", -- snes
+  min_quest_size = "240x160", -- gba
+  max_quest_size = "256x224",
+}
+

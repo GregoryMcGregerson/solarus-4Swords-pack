@@ -1,0 +1,50 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 1024,
+  height = 1024,
+  min_layer = 0,
+  max_layer = 2,
+  world = "Light",
+  tileset = "00",
+  music = "ALBW/mori",
+}
+
+teletransporter{
+  layer = 0,
+  x = 1024,
+  y = 0,
+  width = 16,
+  height = 512,
+  destination_map = "ALttP/00",
+  destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 0,
+  y = 1024,
+  width = 512,
+  height = 16,
+  destination_map = "ALttP/00",
+}
+
+teletransporter{
+  layer = 0,
+  x = 512,
+  y = 1024,
+  width = 512,
+  height = 16,
+  destination_map = "ALttP/00",
+}
+
+teletransporter{
+  layer = 0,
+  x = 1024,
+  y = 512,
+  width = 16,
+  height = 512,
+  destination_map = "ALttP/00",
+  destination = "_side",
+}
+
